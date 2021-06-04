@@ -1,4 +1,4 @@
-## Lab 1 Files:
+## File Overview:
 
 - lab-01-folders.txt: a copy of the CLI output displaying the directories in a folder.
     <img src="./lab-01-folders.png/" alt="lab-01-folders.png" width="716" height="437">
